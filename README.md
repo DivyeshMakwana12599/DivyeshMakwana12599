@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyeshMakwana12599
 - 👀 I’m interested in AI/MachineLearning/WebDevlopment/Electronics/VLSI
-- 🌱 I’m currently learning JavaScript-Node.js
+- 🌱 I’m currently working with System Verilog / UVM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me divyeshmakwana12599@gmail.com
 
